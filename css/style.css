@@ -228,7 +228,7 @@ select {
 
 /* Arrow */
 .select::after {
-    */ position: absolute;
+    position: absolute;
     content    : '\f078';
     font-family: 'FontAwesome';
     right      : 20px;
